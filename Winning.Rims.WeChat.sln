@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning.Rims.WeChat", "Winning.Rims.WeChat\Winning.Rims.WeChat.csproj", "{18CCF7F2-3562-4FC3-ABB5-A3E094ADEB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning.Rims.WeChat.Patient", "Winning.Rims.WeChat.Patient\Winning.Rims.WeChat.Patient.csproj", "{7FC1F453-F3EF-4552-98E6-FE73E7234424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning.Rims.WeChat.Core", "Winning.Rims.WeChat.Core\Winning.Rims.WeChat.Core.csproj", "{FC1C6328-6F0D-4997-8856-609CCB9BC814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning.Rims.WeChat.Doctor", "Winning.Rims.WeChat.Doctor\Winning.Rims.WeChat.Doctor.csproj", "{6B77AEAC-D521-48EA-80F6-F229708C20BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CCF7F2-3562-4FC3-ABB5-A3E094ADEB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CCF7F2-3562-4FC3-ABB5-A3E094ADEB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CCF7F2-3562-4FC3-ABB5-A3E094ADEB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CCF7F2-3562-4FC3-ABB5-A3E094ADEB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC1F453-F3EF-4552-98E6-FE73E7234424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC1F453-F3EF-4552-98E6-FE73E7234424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC1F453-F3EF-4552-98E6-FE73E7234424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC1F453-F3EF-4552-98E6-FE73E7234424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1C6328-6F0D-4997-8856-609CCB9BC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1C6328-6F0D-4997-8856-609CCB9BC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1C6328-6F0D-4997-8856-609CCB9BC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1C6328-6F0D-4997-8856-609CCB9BC814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B77AEAC-D521-48EA-80F6-F229708C20BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B77AEAC-D521-48EA-80F6-F229708C20BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B77AEAC-D521-48EA-80F6-F229708C20BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B77AEAC-D521-48EA-80F6-F229708C20BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D165A649-068E-41EC-9491-40B556548753}
+	EndGlobalSection
+EndGlobal
